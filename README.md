@@ -17,9 +17,9 @@ This makes the design fully customizable and a great learning resource for under
 
 ## Screenshots
 
-![Alt text](images/colored.png)
+![Color Bars Pattern](media/colored.jpg)
 
-![Alt text](media/grayscale.png)
+![Grayscale Bars Pattern](media/grayscale.jpg)
 
 ## Demo
 
