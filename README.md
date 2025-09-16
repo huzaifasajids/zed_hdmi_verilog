@@ -84,18 +84,18 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 
 <table align="center">
   <tr>
-    <td align="center" width="150" height="30">Zedboard</td>
-    <td align="center" width="150">ZC702</td>
-    <td align="center" width="150">ZC706</td>
-    <td align="center" width="150">KC705</td>
-    <td align="center" width="150">Arty Z7</td>
+    <td align="center" width="120" height="30">Zedboard</td>
+    <td align="center" width="120">ZC702</td>
+    <td align="center" width="120">ZC706</td>
+    <td align="center" width="120">KC705</td>
+    <td align="center" width="120">Arty Z7</td>
   </tr>
   <tr>
-    <td align="center" width="150" height="30">AC701</td>
-    <td align="center" width="150">SP701</td>
-    <td align="center" width="150">VC707</td>
-    <td align="center" width="150">Nexys Video</td>
-    <td align="center" width="150">MiniZed</td>
+    <td align="center" width="120" height="30">AC701</td>
+    <td align="center" width="120">SP701</td>
+    <td align="center" width="120">VC707</td>
+    <td align="center" width="120">Nexys Video</td>
+    <td align="center" width="120">MiniZed</td>
   </tr>
 </table>
 
@@ -112,31 +112,29 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 
 ## Support
 
-If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at 
-<p align="center">
-  <b>USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address</b>:<code>TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW</code>
-</p>
+If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at
+**USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address**: `TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW` 
 
 For more FPGA consulting or custom project ideas, contact me via the platforms below.
 
-<table align="center">
-  <tr align="center">
-    <td align="center" width="100" height="100">
+<table align="center" style="border: none;">
+  <tr align="center" style="border: none;">
+    <td align="center" width="100" height="100" style="border: none;">
       <a href="mailto:huzaifanustian@gmail.com">
       <img src="https://pngimg.com/uploads/email/small/email_PNG100741.png">
       </a>
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="100" height="100" style="border: none;">
       <a href="https://www.linkedin.com/in/huzaifa-sajid/">
       <img src="https://i.postimg.cc/P5CSsx78/toppng-com-gradient-blue-linkedin-vector-png-800x800.png">
       </a>
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="100" height="100" style="border: none;">
       <a href="https://www.fiverr.com/homesterech">
       <img src="https://i.postimg.cc/ydKqXxFH/fiverr.png">
       </a>
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="100" height="100" style="border: none;">
       <a href="https://www.upwork.com/freelancers/huzaifasajid3">
       <img src="https://i.postimg.cc/hP3Pc8q3/Upwork.png">
       </a>
