@@ -74,7 +74,8 @@ The following video demonstrates the program running on Zedboard and displaying 
 <p align="center">
   <a href="https://www.youtube.com/shorts/rypr4o7kEKw" target="_blank" >
     <img src="https://img.youtube.com/vi/rypr4o7kEKw/0.jpg" alt="Watch the demo video" width="300"/>
-  </a>
+  </a><br>
+  <sub>▶ Click to Play Demo Video</sub>
 </p>
 
 ---
