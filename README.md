@@ -71,7 +71,7 @@ The Switches SW0 and SW1 are mapped in the constraints file for reset and graysc
 
 The following video demonstrates the program running on Zedboard and displaying the test pattern on the HDMI connected screen.
 
-<a href="https://www.youtube.com/shorts/rypr4o7kEKw" target="_blank">
+<a href="https://www.youtube.com/shorts/rypr4o7kEKw" target="_blank" >
   <img src="https://img.youtube.com/vi/rypr4o7kEKw/0.jpg" alt="Watch the demo video" width="300"/>
   <br/>
 </a>
@@ -82,20 +82,20 @@ The following video demonstrates the program running on Zedboard and displaying 
 
 With minor tweaks in constraints file and ensuring proper clock division, the project can be reused with all FPGA boards that use the ADV7511 HDMI 1.4 Transmitter. Most of Xilinx based FPGAs utilize the ADV7511 chip. Some prominent examples are listed below:
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="100" height="30">Zedboard</td>
-    <td align="center" width="100">ZC702</td>
-    <td align="center" width="100">ZC706</td>
-    <td align="center" width="100">KC705</td>
-    <td align="center" width="100">Arty Z7</td>
+    <td align="center" width="150" height="30">Zedboard</td>
+    <td align="center" width="150">ZC702</td>
+    <td align="center" width="150">ZC706</td>
+    <td align="center" width="150">KC705</td>
+    <td align="center" width="150">Arty Z7</td>
   </tr>
   <tr>
-    <td align="center" width="100" height="30">AC701</td>
-    <td align="center" width="100">SP701</td>
-    <td align="center" width="100">VC707</td>
-    <td align="center" width="100">Nexys Video</td>
-    <td align="center" width="100">MiniZed</td>
+    <td align="center" width="150" height="30">AC701</td>
+    <td align="center" width="150">SP701</td>
+    <td align="center" width="150">VC707</td>
+    <td align="center" width="150">Nexys Video</td>
+    <td align="center" width="150">MiniZed</td>
   </tr>
 </table>
 
@@ -103,9 +103,13 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 
 ## 🔗 Useful Links
 [1. Zedboard Hardware User Guide](https://files.digilent.com/resources/programmable-logic/zedboard/ZedBoard_HW_UG_v2_2.pdf)
+
 [2. ADV7511 Hardware Users Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Hardware_Users_Guide.pdf)
+
 [3. ADV7511 Programming Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Programming_Guide.pdf)
+
 [4. Xilinx FPGA HDMI-1.4 (understanding the basics)](https://www.hackster.io/nikilthapa/xilinx-fpga-hdmi1-4-you-must-know-first-78d774)
+
 [5. Zedboard HDMI design using Xilinx IP Cores](https://www.youtube.com/watch?v=BstMo5OwsjI)
 
 ---
@@ -113,28 +117,29 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 ## Support
 
 If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at
+
 **USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address**: `TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW` 
 
 For more FPGA consulting or custom project ideas, contact me via the platforms below.
 
 <table>
   <tr>
-    <td align="center" width="60" height="60">
+    <td align="center" width="100" height="100">
       <a href="mailto:huzaifanustian@gmail.com">
       <img src="https://pngimg.com/uploads/email/small/email_PNG100741.png">
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="100" height="100">
       <a href="https://www.linkedin.com/in/huzaifa-sajid/">
-      <img src="https://pngimg.com/d/linkedIn_PNG27.png">
+      <img src="https://i.postimg.cc/P5CSsx78/toppng-com-gradient-blue-linkedin-vector-png-800x800.png">
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="100" height="100">
       <a href="https://www.fiverr.com/homesterech">
       <img src="https://i.postimg.cc/ydKqXxFH/fiverr.png">
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="100" height="100">
       <a href="https://www.upwork.com/freelancers/huzaifasajid3">
       <img src="https://i.postimg.cc/hP3Pc8q3/Upwork.png">
       </a>
