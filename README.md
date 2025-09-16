@@ -54,8 +54,8 @@ zed_hdmi.v (Top)
 #### Screenshots
 The Switches SW0 and SW1 are mapped in the constraints file for reset and grayscale respectively. SW1 can be used to switch between color pattern and grayscale pattern.
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center">
       <img src="https://i.postimg.cc/NKwMdFKz/colored.jpg" alt="Color Bars Pattern" width="250"/><br/>
       <sub><b>Color Bars Pattern</b></sub>
@@ -71,10 +71,11 @@ The Switches SW0 and SW1 are mapped in the constraints file for reset and graysc
 
 The following video demonstrates the program running on Zedboard and displaying the test pattern on the HDMI connected screen.
 
-<a href="https://www.youtube.com/shorts/rypr4o7kEKw" target="_blank" >
-  <img src="https://img.youtube.com/vi/rypr4o7kEKw/0.jpg" alt="Watch the demo video" width="300"/>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/shorts/rypr4o7kEKw" target="_blank" >
+    <img src="https://img.youtube.com/vi/rypr4o7kEKw/0.jpg" alt="Watch the demo video" width="300"/>
+  </a>
+</p>
 
 ---
 
