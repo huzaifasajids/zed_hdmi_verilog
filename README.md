@@ -102,24 +102,25 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 ---
 
 ## 🔗 Useful Links
-[1. Zedboard Hardware User Guide](https://files.digilent.com/resources/programmable-logic/zedboard/ZedBoard_HW_UG_v2_2.pdf)  
-[2. ADV7511 Hardware Users Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Hardware_Users_Guide.pdf)  
-[3. ADV7511 Programming Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Programming_Guide.pdf)  
-[4. Xilinx FPGA HDMI-1.4 (understanding the basics)](https://www.hackster.io/nikilthapa/xilinx-fpga-hdmi1-4-you-must-know-first-78d774)  
-[5. Zedboard HDMI design using Xilinx IP Cores](https://www.youtube.com/watch?v=BstMo5OwsjI)  
+&nbsp;&nbsp;&nbsp;&nbsp;1. [Zedboard Hardware User Guide](https://files.digilent.com/resources/programmable-logic/zedboard/ZedBoard_HW_UG_v2_2.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;2. [ADV7511 Hardware Users Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Hardware_Users_Guide.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;3. [ADV7511 Programming Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ADV7511_Programming_Guide.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;4. [Xilinx FPGA HDMI-1.4 (understanding the basics)](https://www.hackster.io/nikilthapa/xilinx-fpga-hdmi1-4-you-must-know-first-78d774)  
+&nbsp;&nbsp;&nbsp;&nbsp;5. [Zedboard HDMI design using Xilinx IP Cores](https://www.youtube.com/watch?v=BstMo5OwsjI)  
 
 ---
 
 ## Support
 
-If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at
-
-**USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address**: `TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW` 
+If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at 
+<p align="center">
+  <b>USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address</b>:<code>TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW</code>
+</p>
 
 For more FPGA consulting or custom project ideas, contact me via the platforms below.
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center" width="100" height="100">
       <a href="mailto:huzaifanustian@gmail.com">
       <img src="https://pngimg.com/uploads/email/small/email_PNG100741.png">
