@@ -112,7 +112,7 @@ With minor tweaks in constraints file and ensuring proper clock division, the pr
 
 ## Support
 
-If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at
+If you found this project useful, consider donating USDT (*TRC20 - Tron Network only*) at  
 **USDT <img src="https://i.postimg.cc/C1F9TJgF/pngwing-com.png" width="13"/> Address**: `TJH5a6D8Rvy5KQ9JpLzaBJuZLvpJQb3apW` 
 
 For more FPGA consulting or custom project ideas, contact me via the platforms below.
