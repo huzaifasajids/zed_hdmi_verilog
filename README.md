@@ -49,6 +49,18 @@ zed_hdmi.v (Top)
 
 ---
 
+## Deployment
+
+To deploy this project, open Vivado Tcl Console, change directory to the directory containing the tcl file and run the tcl script. 
+This will create the vivado project under the main directory. 
+
+```tcl
+  cd D:/Work/zed_hdmi_verilog/tcl/
+  source zed_hdmi_verilog.tcl
+```
+
+---
+
 ## Results
 
 #### Screenshots
