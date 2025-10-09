@@ -80,6 +80,7 @@
 # Clock Source - Bank 13
 # ---------------------------------------------------------------------------- 
 set_property PACKAGE_PIN Y9 [get_ports {i_clk100MHz}];  # "GCLK"
+create_clock -period 10.000 -name clk100 -waveform {0.000 5.000} [get_ports {i_clk100MHz}]
 
 # ----------------------------------------------------------------------------
 # JA Pmod - Bank 13 

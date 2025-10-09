@@ -61,6 +61,6 @@ always @* begin
     end
 end
 
-assign o_hdmi_data = pixel_x[0] ? {data_cr, data_y} : {data_cb, data_y};
+assign o_hdmi_data = o_hdmi_de ? (pixel_x[0] ? {data_cr, data_y} : {data_cb, data_y}) : 16'd0;
  
 endmodule
